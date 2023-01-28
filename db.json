@@ -1,0 +1,184 @@
+{
+  "movies": [
+    {
+        "id": 1,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "director": "Peter Jackson"
+    },
+    {
+        "id": 2,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "year": 1980,
+        "director": "Irvin Kershner"
+    },
+    {
+        "id": 3,
+        "title": "The Pianist",
+        "year": 2002,
+        "director": "Roman Polanski"
+    },
+    {
+        "id": 4,
+        "title": "Gladiator",
+        "year": 2000,
+        "director": "Ridley Scott"
+    },
+    {
+        "id": 5,
+        "title": "The Green Mile",
+        "year": 1999,
+        "director": "Frank Darabont"
+    },
+    {
+        "id": 6,
+        "title": "The Intouchables",
+        "year": 2011,
+        "director": "Olivier Nakache and Eric Toledano"
+    },
+    {
+        "id": 7,
+        "title": "The Lion King",
+        "year": 1994,
+        "director": "Roger Allers and Rob Minkoff"
+    },
+    {
+        "id": 8,
+        "title": "City of God",
+        "year": 2002,
+        "director": "Fernando Meirelles and Kátia Lund"
+    },
+    {
+        "id": 9,
+        "title": "Braveheart",
+        "year": 1995,
+        "director": "Mel Gibson"
+    },
+    {
+        "id": 10,
+        "title": "Psycho",
+        "year": 1960,
+        "director": "Alfred Hitchcock"
+    },
+    {
+        "id": 11,
+        "title": "Apocalypse Now",
+        "year": 1979,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "id": 12,
+        "title": "Aliens",
+        "year": 1986,
+        "director": "James Cameron"
+    },
+    {
+        "id": 13,
+        "title": "Sunset Boulevard",
+        "year": 1950,
+        "director": "Billy Wilder"
+    },
+    {
+        "id": 14,
+        "title": "The Terminator",
+        "year": 1984,
+        "director": "James Cameron"
+    },
+    {
+        "id": 15,
+        "title": "The Elephant Man",
+        "year": 1980,
+        "director": "David Lynch"
+    },
+    {
+        "id": 16,
+        "title": "Taxi Driver",
+        "year": 1976,
+        "director": "Martin Scorsese"
+    },
+    {
+        "id": 17,
+        "title": "Lawrence of Arabia",
+        "year": 1962,
+        "director": "David Lean"
+    },
+    {
+        "id": 18,
+        "title": "Casablanca",
+        "year": 1942,
+        "director": "Michael Curtiz"
+    },
+    {
+        "id": 19,
+        "title": "Vertigo",
+        "year": 1958,
+        "director": "Alfred Hitchcock"
+    },
+    {   
+        "id": 20,
+        "title": "The Bridge on the River Kwai",
+        "year": 1957,
+        "director": "David Lean"
+    },
+    {   
+        "id": 21,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "director": "Frank Darabont"
+    },
+    {
+        "id": 22,
+        "title": "The Godfather",
+        "year": 1972,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "id": 23,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "director": "Christopher Nolan"
+    },
+    {
+        "id": 24,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "id": 25,
+        "title": "The Good, the Bad and the Ugly",
+        "year": 1966,
+        "director": "Sergio Leone"
+    },
+    {
+        "id": 26,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "director": "Robert Zemeckis"
+    },
+    {
+        "id": 26,
+        "title": "Inception",
+        "year": 2010,
+        "director": "Christopher Nolan"
+    },
+    {
+        "id": 27,
+        "title": "The Matrix",
+        "year": 1999,
+        "director": "The Wachowskis"
+    },
+    {
+        "id": 28,
+        "title": "Goodfellas",
+        "year": 1990,
+        "director": "Martin Scorsese"
+    },
+    {
+        "id": 29,
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "director": "Jonathan Demme"
+    }
+  ]
+}
