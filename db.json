@@ -1,184 +1,245 @@
 {
-  "movies": [
-    {
-        "id": 1,
-        "title": "The Lord of the Rings: The Return of the King",
-        "year": 2003,
-        "director": "Peter Jackson"
-    },
-    {
-        "id": 2,
-        "title": "Star Wars: Episode V - The Empire Strikes Back",
-        "year": 1980,
-        "director": "Irvin Kershner"
-    },
-    {
-        "id": 3,
-        "title": "The Pianist",
-        "year": 2002,
-        "director": "Roman Polanski"
-    },
-    {
-        "id": 4,
-        "title": "Gladiator",
-        "year": 2000,
-        "director": "Ridley Scott"
-    },
-    {
-        "id": 5,
-        "title": "The Green Mile",
-        "year": 1999,
-        "director": "Frank Darabont"
-    },
-    {
-        "id": 6,
-        "title": "The Intouchables",
-        "year": 2011,
-        "director": "Olivier Nakache and Eric Toledano"
-    },
-    {
-        "id": 7,
-        "title": "The Lion King",
-        "year": 1994,
-        "director": "Roger Allers and Rob Minkoff"
-    },
-    {
-        "id": 8,
-        "title": "City of God",
-        "year": 2002,
-        "director": "Fernando Meirelles and Kátia Lund"
-    },
-    {
-        "id": 9,
-        "title": "Braveheart",
-        "year": 1995,
-        "director": "Mel Gibson"
-    },
-    {
-        "id": 10,
-        "title": "Psycho",
-        "year": 1960,
-        "director": "Alfred Hitchcock"
-    },
-    {
-        "id": 11,
-        "title": "Apocalypse Now",
-        "year": 1979,
-        "director": "Francis Ford Coppola"
-    },
-    {
-        "id": 12,
-        "title": "Aliens",
-        "year": 1986,
-        "director": "James Cameron"
-    },
-    {
-        "id": 13,
-        "title": "Sunset Boulevard",
-        "year": 1950,
-        "director": "Billy Wilder"
-    },
-    {
-        "id": 14,
-        "title": "The Terminator",
-        "year": 1984,
-        "director": "James Cameron"
-    },
-    {
-        "id": 15,
-        "title": "The Elephant Man",
-        "year": 1980,
-        "director": "David Lynch"
-    },
-    {
-        "id": 16,
-        "title": "Taxi Driver",
-        "year": 1976,
-        "director": "Martin Scorsese"
-    },
-    {
-        "id": 17,
-        "title": "Lawrence of Arabia",
-        "year": 1962,
-        "director": "David Lean"
-    },
-    {
-        "id": 18,
-        "title": "Casablanca",
-        "year": 1942,
-        "director": "Michael Curtiz"
-    },
-    {
-        "id": 19,
-        "title": "Vertigo",
-        "year": 1958,
-        "director": "Alfred Hitchcock"
-    },
-    {   
-        "id": 20,
-        "title": "The Bridge on the River Kwai",
-        "year": 1957,
-        "director": "David Lean"
-    },
-    {   
-        "id": 21,
-        "title": "The Shawshank Redemption",
-        "year": 1994,
-        "director": "Frank Darabont"
-    },
-    {
-        "id": 22,
-        "title": "The Godfather",
-        "year": 1972,
-        "director": "Francis Ford Coppola"
-    },
-    {
-        "id": 23,
-        "title": "The Dark Knight",
-        "year": 2008,
-        "director": "Christopher Nolan"
-    },
-    {
-        "id": 24,
-        "title": "Pulp Fiction",
-        "year": 1994,
-        "director": "Quentin Tarantino"
-    },
-    {
-        "id": 25,
-        "title": "The Good, the Bad and the Ugly",
-        "year": 1966,
-        "director": "Sergio Leone"
-    },
-    {
-        "id": 26,
-        "title": "Forrest Gump",
-        "year": 1994,
-        "director": "Robert Zemeckis"
-    },
-    {
-        "id": 26,
-        "title": "Inception",
-        "year": 2010,
-        "director": "Christopher Nolan"
-    },
-    {
-        "id": 27,
-        "title": "The Matrix",
-        "year": 1999,
-        "director": "The Wachowskis"
-    },
-    {
-        "id": 28,
-        "title": "Goodfellas",
-        "year": 1990,
-        "director": "Martin Scorsese"
-    },
-    {
-        "id": 29,
-        "title": "The Silence of the Lambs",
-        "year": 1991,
-        "director": "Jonathan Demme"
-    }
-  ]
+    "movies": [
+        {
+            "id": 1,
+            "title": "The Lord of the Rings: The Return of the King",
+            "year": 2003,
+            "director": "Peter Jackson",
+            "image": "https://th.bing.com/th/id/R.8bec3185904f8f16925f131f5d4510be?rik=%2bO0oSQjpWlHF2g&riu=http%3a%2f%2f1.bp.blogspot.com%2f-LxKjkFkXHmY%2fUNyCYEkMpUI%2fAAAAAAAABIM%2fHbUOocm1p0g%2fs1600%2fthe-return-of-the-king-lord-of-the-rings-wallpaper.jpg&ehk=xiF5lKBqT1ILJhUUzHQD18LJdmZV%2fJPL0Pb3il1j9qk%3d&risl=&pid=ImgRaw&r=0",
+            "synopsis": "The Lord of the Rings: The Return of the King is the final installment of J.R.R. Tolkien's epic fantasy trilogy. The story follows Frodo Baggins and Samwise Gamgee as they continue their quest to destroy the One Ring and defeat the dark lord Sauron. Meanwhile, Aragorn, Legolas, and Gimli lead an army of men, elves, and dwarves to retake the city of Minas Tirith from Sauron's forces. The film concludes with a final showdown between the armies of good and evil, and the ultimate destruction of the One Ring. The film was released in 2003 and won 11 Academy Awards, including Best Picture."
+        },
+        {
+            "id": 2,
+            "title": "Star Wars: Episode V - The Empire Strikes Back",
+            "year": 1980,
+            "director": "Irvin Kershner",
+            "image": "https://picfiles.alphacoders.com/125/125320.jpg",
+            "synopsis": "Star Wars: Episode V - The Empire Strikes Back is the second film in the original Star Wars trilogy. The story takes place three years after the events of the first film, with the Rebel Alliance being pursued by the Galactic Empire. Meanwhile, Darth Vader continues his pursuit of Luke Skywalker as he trains in the ways of the Force with Jedi master Yoda. The film introduces new characters, including Lando Calrissian, and introduces the concept of Darth Vader being Luke's father. The film culminates with a cliffhanger ending as Luke duels with Vader, revealing the truth about their relationship. The Empire Strikes Back was released in 1980 and is widely regarded as one of the best science fiction films of all time."
+        },
+        {
+            "id": 3,
+            "title": "The Pianist",
+            "year": 2002,
+            "director": "Roman Polanski",
+            "image": "https://imagenes.gatotv.com/categorias/peliculas/posters/el_pianista.png",
+            "synopsis": "The Pianist is a 2002 film directed by Roman Polanski and based on the autobiography of the same name by Władysław Szpilman. The film is set in Nazi-occupied Warsaw during World War II and follows the story of a Jewish pianist named Władysław Szpilman (played by Adrien Brody) as he struggles to survive the Holocaust. The film details Szpilman's experiences as he hides from the Nazis and attempts to survive in the war-torn city, relying on his musical talents to stay alive. The Pianist received widespread critical acclaim and won several awards, including the Palme d'Or at the 2002 Cannes Film Festival and three Academy Awards, including Best Actor for Adrien Brody."
+        },
+        {
+            "id": 4,
+            "title": "Gladiator",
+            "year": 2000,
+            "director": "Ridley Scott",
+            "image": "https://3.bp.blogspot.com/_z1NZintfQLg/TODUqc9cnLI/AAAAAAAAAA0/q4DRXjqr-qs/s1600/Gladiator.jpg",
+            "synopsis": "Gladiator is a 2000 historical epic film directed by Ridley Scott. The film stars Russell Crowe as Maximus, a Roman general who is betrayed and enslaved after the death of the Emperor Marcus Aurelius. Maximus becomes a gladiator and rises through the ranks of the arena, ultimately seeking revenge against the new Emperor, Commodus (Joaquin Phoenix). The film features themes of power, politics, and revenge in ancient Rome and was well received for its action, cinematography, and score. Gladiator won five Academy Awards, including Best Picture and Best Actor for Russell Crowe."
+        },
+        {
+            "id": 5,
+            "title": "The Green Mile",
+            "year": 1999,
+            "director": "Frank Darabont",
+            "image": "https://th.bing.com/th/id/R.e59d0e67e9da5159780f38aa18d2b59b?rik=6Nq7V8Wvuf1MwQ&riu=http%3a%2f%2flunkiandsika.files.wordpress.com%2f2011%2f08%2fthe-green-mile-tom-hanks-poster-03.png&ehk=XduhWhYepHRPNDywBbj%2bJ8l368Ai3Td%2b%2bkrSYdQiUcY%3d&risl=&pid=ImgRaw&r=0",
+            "synopsis": "The Green Mile is a 1999 film directed by Frank Darabont, based on a novel of the same name by Stephen King. The film is set in the 1930s and follows the story of a death row corrections officer named Paul Edgecomb (played by Tom Hanks) who oversees a group of prisoners, including a mysterious inmate named John Coffey (played by Michael Clarke Duncan). Edgecomb discovers that Coffey possesses a miraculous power that transforms those around him and must confront his own beliefs about life and death as he faces the possibility of executing an innocent man. The film explores themes of justice, compassion, and the power of the human spirit and was well-received for its powerful performances and emotional impact."
+        },
+        {
+            "id": 6,
+            "title": "The Intouchables",
+            "year": 2011,
+            "director": "Olivier Nakache and Eric Toledano",
+            "image": "https://resizing.flixster.com/rObzZI6WUa7ZVqROn64-04Qmu1c=/206x305/v1.bTsxMTE2OTE4MztqOzE3NDA5OzEyMDA7ODAwOzEyMDA",
+            "synopsis": "The Intouchables is a 2011 French comedy-drama film directed by Olivier Nakache and Eric Toledano. The film is based on the true story of Philippe, a wealthy French businessman who becomes a quadriplegic after a paragliding accident, and Driss, a young ex-convict from the projects who is hired to be his caretaker. Despite their vastly different backgrounds, the two men form an unlikely friendship and bond over their shared sense of humor and love of life. The film explores themes of friendship, trust, and the transformative power of human connection and was a commercial and critical success, becoming the highest-grossing French-language film of all time."
+        },
+        {
+            "id": 7,
+            "title": "The Lion King",
+            "year": 1994,
+            "director": "Roger Allers and Rob Minkoff",
+            "image": "https://www.themoviedb.org/t/p/original/1dOCAh91v0iClGLDc9TFTDotH6Y.jpg",
+            "synopsis": "The Lion King is a 1994 American animated musical film produced by Walt Disney Feature Animation and released by Walt Disney Pictures. It is a retelling of the story from the Bible of Joseph and Moses, but set in the African savanna. The film follows Simba, a young lion who is to succeed his father Mufasa as king of the Pride Lands but is manipulated by his uncle Scar into believing he was responsible for Mufasa's death and flees into exile. Years later, Simba returns as an adult to reclaim his throne and restore order to the Pride Lands."
+        },
+        {
+            "id": 8,
+            "title": "City of God",
+            "year": 2002,
+            "director": "Fernando Meirelles and Kátia Lund",
+            "image": "https://1.bp.blogspot.com/_ecBknTGr4ik/TIDEaonMVNI/AAAAAAAAAco/n6A-T8cUPKE/s1600/1e.jpg",
+            "synopsis": "City of God is a 2002 Brazilian crime drama film directed by Fernando Meirelles and co-directed by Kátia Lund. The film is set in the Cidade de Deus neighborhood of Rio de Janeiro, Brazil, from the 1960s to the 1980s and depicts the growth of organized crime in the area and its impact on the residents. The film follows the lives of several characters, including the photographer Rocket, who chronicles the violence and corruption in the city, and the drug lord Li'l Zé, who rises to power and becomes the city's most feared criminal. The film is known for its raw and realistic portrayal of crime and poverty in Rio de Janeiro."
+        },
+        {
+            "id": 9,
+            "title": "Braveheart",
+            "year": 1995,
+            "director": "Mel Gibson",
+            "image": "https://th.bing.com/th/id/R.efb3663661c6ef4d5882b86b73056b45?rik=TWVSn56YZWT8NA&pid=ImgRaw&r=0",
+            "synopsis": "Braveheart is a 1995 historical drama film directed by Mel Gibson and written by Randall Wallace. The film is a fictionalized account of the life of William Wallace, a Scottish knight who led a rebellion against King Edward I of England in the late 13th century. The film follows Wallace as he gathers a group of Scottish warriors to fight for their independence from English rule, culminating in the Battle of Stirling Bridge. The film is noted for its historical inaccuracies, but is well-known for its memorable speeches, thrilling action sequences, and its depiction of Wallace as a charismatic leader fighting for freedom."
+        },
+        {
+            "id": 10,
+            "title": "Psycho",
+            "year": 1960,
+            "director": "Alfred Hitchcock",
+            "image": "https://s-media-cache-ak0.pinimg.com/736x/39/43/0d/39430d3398d67493bddc0a549b673502.jpg",
+            "synopsis": "Psycho is a 1960 psychological horror film directed by Alfred Hitchcock, based on the 1959 novel of the same name by Robert Bloch. The film follows Marion Crane, who steals money from her employer and goes on the run, eventually checking into the Bates Motel run by the mysterious Norman Bates. Crane's disappearance and subsequent murder form the center of the film's first half, with the second half focusing on the investigation into her death and the uncovering of Bates' secrets. The film is known for its innovative techniques, including its iconic shower scene, and its exploration of themes of identity, repression, and mother-son relationships."
+        },
+        {
+            "id": 11,
+            "title": "Apocalypse Now",
+            "year": 1979,
+            "director": "Francis Ford Coppola",
+            "image": "https://doomrocket.com/wp-content/uploads/2016/11/apocalypse_now-1024x768.jpg",
+            "synopsis": "Apocalypse Now is a 1979 American epic war film directed by Francis Ford Coppola, based on the novel Heart of Darkness by Joseph Conrad. The film takes place during the Vietnam War and follows Captain Willard, who is sent on a mission up the Nung River in Cambodia to assassinate the rogue and unstable Colonel Kurtz, who has declared himself a god and is leading his own army. Along the way, Willard encounters a variety of characters and experiences the madness and horrors of the war. The film is known for its vivid and surreal imagery, as well as its exploration of the themes of morality, the futility of war, and the nature of power."
+        },
+        {
+            "id": 12,
+            "title": "Aliens",
+            "year": 1986,
+            "director": "James Cameron",
+            "image": "https://www.thedigitalfix.com/wp-content/uploads/2021/05/alien.jpg",
+            "synopsis": "Aliens is a 1986 science fiction action film directed by James Cameron, and is the sequel to the 1979 film Alien. The film takes place 57 years after the events of the first film and follows Ellen Ripley, the sole survivor of the first film, as she joins a team of Marines on a mission to investigate a distress call from a remote colony on LV-426. Once they arrive, they discover that the colonists have been abducted by a horde of Xenomorphs, and must fight for survival as they try to escape the planet. The film is known for its action-packed sequences, its depiction of strong female characters, and its exploration of the themes of motherhood, survival, and the horrors of war."
+        },
+        {
+            "id": 13,
+            "title": "Sunset Boulevard",
+            "year": 1950,
+            "director": "Billy Wilder",
+            "image": "https://artworks.thetvdb.com/banners/movies/2351/posters/2351.jpg",
+            "synopsis": "Sunset Boulevard is a 1950 American film noir directed by Billy Wilder and co-written by Wilder and Charles Brackett. The film is a commentary on the decline of the film industry in Hollywood and the decline of the silent film era. It follows the story of a down-on-his-luck screenwriter, Joe Gillis, who becomes involved with a reclusive and eccentric former silent film star, Norma Desmond, and her attempts to make a comeback in the talkies. The film is known for its dark and cynical tone, its memorable characters and dialogue, and its exploration of themes of obsession, delusion, and the price of fame."
+        },
+        {
+            "id": 14,
+            "title": "The Terminator",
+            "year": 1984,
+            "director": "James Cameron",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTUzMDQ3OTgwM15BMl5BanBnXkFtZTYwNDQ5OTk4._V1_FMjpg_UX1000_.jpg",
+            "synopsis": "The Terminator is a 1984 science fiction action film directed by James Cameron and co-written by Cameron and Gale Anne Hurd. The film is set in the future and follows the story of a cyborg assassin, the Terminator, who is sent back in time to 1984 to kill Sarah Connor, the future mother of the leader of the human resistance against machines. Connor is protected by a human soldier from the future, Kyle Reese, who sacrifices himself to save her. The film is known for its thrilling action sequences, its memorable characters and dialogue, and its exploration of themes of fate, free will, and the consequences of technological progress."
+        },
+        {
+            "id": 15,
+            "title": "The Elephant Man",
+            "year": 1980,
+            "director": "David Lynch",
+            "image": "https://th.bing.com/th/id/OIP.5cuY__HntESE26hAxEHKZgHaLH?pid=ImgDet&rs=1",
+            "synopsis": "The Elephant Man is a 1980 biographical drama film directed by David Lynch and based on the real-life story of Joseph Merrick, a man with severe physical deformities who lived in Victorian England. The film follows Merrick as he is rescued from a life of exploitation by Dr. Frederick Treves and taken to London's Whitechapel Hospital. There, Merrick is treated with kindness and dignity for the first time in his life, and becomes a cause célèbre among the city's high society. The film is known for its moving and compassionate portrayal of Merrick's life and struggles, as well as its exploration of themes of human dignity, kindness, and the cruel prejudices of society."
+        },
+        {
+            "id": 16,
+            "title": "Taxi Driver",
+            "year": 1976,
+            "director": "Martin Scorsese",
+            "image": "https://th.bing.com/th/id/OIP.dGU6c3EzBcv7i6k6aGH5FwHaLH?pid=ImgDet&rs=1",
+            "synopsis": "Taxi Driver is a 1976 psychological drama film directed by Martin Scorsese and written by Paul Schrader. The film follows the story of a veteran, Travis Bickle, who works as a taxi driver in New York City and becomes increasingly disillusioned with the seedy, violent and oppressive aspects of the city. Bickle becomes obsessed with saving a young prostitute, Iris, and ultimately decides to take violent action to try to clean up the city. The film is known for its intense and atmospheric depiction of urban life, its complex and disturbed central character, and its exploration of themes of loneliness, isolation, and the potential for violence in modern society."
+        },
+        {
+            "id": 17,
+            "title": "Lawrence of Arabia",
+            "year": 1962,
+            "director": "David Lean",
+            "image": "https://th.bing.com/th/id/OIP.HKaKb2m-qO8nyTos6aUAYAHaEK?pid=ImgDet&rs=1",
+            "synopsis": "Lawrence of Arabia is a 1962 epic adventure war film directed by David Lean and based on the life of T. E. Lawrence, a British Army officer who became a legendary figure in the Arab Revolt against the Ottoman Empire during World War I. The film follows Lawrence as he travels to Arabia and becomes embroiled in the conflict, eventually leading the Arab forces to a series of remarkable victories against the Ottoman army. Along the way, he faces challenges and tests of his own beliefs and loyalties, and becomes a complex and charismatic figure of mythic proportions. The film is known for its stunning cinematography, its sweeping and epic storytelling, and its portrayal of Lawrence as a complex and charismatic hero."
+        },
+        {
+            "id": 18,
+            "title": "Casablanca",
+            "year": 1942,
+            "director": "Michael Curtiz",
+            "image": "https://th.bing.com/th/id/OIP.NsgZQZLC7RKNQKlBXi6bIAHaKY?pid=ImgDet&rs=1", 
+            "synopsis": "Casablanca is a 1942 romantic drama film directed by Michael Curtiz and based on an unproduced stage play. The film takes place during World War II in the Moroccan city of Casablanca, and follows the story of Rick Blaine, a disillusioned American expatriate who runs a nightclub in the city. When his former lover, Ilsa Lund, arrives in Casablanca with her husband, a Czech Resistance leader, Rick must confront his feelings for her and decide whether to help them escape the city or turn them over to the authorities. The film is known for its iconic characters and dialogue, its portrayal of love and sacrifice against the backdrop of war, and its memorable songs, including As Time Goes By."
+        },
+        {
+            "id": 19,
+            "title": "Vertigo",
+            "year": 1958,
+            "director": "Alfred Hitchcock",
+            "image" : "https://3.bp.blogspot.com/-dnfmgsH66WM/U6DHIKfsZyI/AAAAAAAAJxg/Ip427go1bhM/s1600/vertigo+cartel.jpg", 
+            "synopsis": "Vertigo is a 1958 psychological thriller film directed by Alfred Hitchcock and based on the 1954 novel D'entre les morts by Boileau-Narcejac. The film follows the story of John "Scottie" Ferguson, a former detective who becomes obsessed with a woman he is hired to tail, who he believes has been possessed by the spirit of a woman who died in a previous life. As Scottie becomes more and more fixated on her, he descends into a dangerous spiral of madness and obsession. The film is known for its innovative and distinctive visual style, its exploration of themes of obsession, love, and identity, and its memorable score by Bernard Herrmann."
+        },
+        {
+            "id": 20,
+            "title": "The Bridge on the River Kwai",
+            "year": 1957,
+            "director": "David Lean",
+            "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/the-bridge-on-the-river-kwai-theatrical-poster-1957-david-lee-guss.jpg", 
+            "synopsis": "The Bridge on the River Kwai is a 1957 war film directed by David Lean and based on the novel by Pierre Boulle. The film takes place during World War II, and follows the story of British prisoners of war who are tasked with building a bridge for the Japanese army in Thailand. The prisoners are led by Colonel Nicholson, who is initially resistant to collaborating with the enemy, but eventually becomes consumed with a sense of pride in the bridge he and his men are building. Meanwhile, a group of Allied soldiers are sent on a mission to destroy the bridge. The film is known for its exploration of themes of nationalism, war, and the search for meaning and purpose, and its memorable portrayal of the conflicted and complex character of Nicholson."
+        },
+        {
+            "id": 21,
+            "title": "The Shawshank Redemption",
+            "year": 1994,
+            "director": "Frank Darabont",
+            "image": "https://th.bing.com/th/id/OIP.Q7q1PossGJF0C2izr4O82wHaKl?pid=ImgDet&rs=1", 
+            "synopsis": "The Shawshank Redemption is a 1994 drama film directed by Frank Darabont and based on the novella "Rita Hayworth and Shawshank Redemption" by Stephen King. The film follows the story of Andy Dufresne, a banker who is wrongfully convicted of murder and sent to Shawshank State Penitentiary. Over the years, he forms an unlikely friendship with fellow prisoner Ellis "Red" Redding and begins to plan his escape. The film is known for its powerful and inspiring portrayal of hope and redemption, its memorable characters and dialogue, and its themes of friendship, perseverance, and the human spirit."
+        },
+        {
+            "id": 22,
+            "title": "The Godfather",
+            "year": 1972,
+            "director": "Francis Ford Coppola",
+            "image": "https://th.bing.com/th/id/R.ce8a1119591f6e2880db6469ec3e1628?rik=amEBPoEWATFyYw&riu=http%3a%2f%2f4.bp.blogspot.com%2f_WkKZJVG5wTk%2fTRyHL4XKsAI%2fAAAAAAAC5oY%2fv56ddqAwOGc%2fs1600%2fGodfather001.jpg&ehk=f4qPlFy90BlyDJPuz%2faKwHk8lBmEKW2sCh3XB0Ay3Eg%3d&risl=&pid=ImgRaw&r=0",
+            "synopsis": "The Godfather is a 1972 crime drama film directed by Francis Ford Coppola and based on the novel by Mario Puzo. The film follows the story of the Corleone family, a powerful Italian-American Mafia clan, as they navigate the treacherous world of organized crime in New York City. At the center of the story is the aging patriarch Vito Corleone, known as The Godfather, and his reluctant son Michael, who takes over the family business after Vito is nearly killed in an assassination attempt. The film is known for its iconic portrayal of the Mafia and its code of honor, its memorable characters and dialogue, its masterful use of violence as a storytelling device, and its exploration of themes of family, power, and loyalty."
+        },
+        {
+            "id": 23,
+            "title": "The Dark Knight",
+            "year": 2008,
+            "director": "Christopher Nolan",
+            "image": "https://th.bing.com/th/id/R.40cda23f43bd1f79735859df67019e52?rik=eJG1w0%2bOJQBHEw&pid=ImgRaw&r=0", 
+            "synopsis": "The Dark Knight is a 2008 superhero film directed by Christopher Nolan and based on the DC Comics character Batman. The film is the second installment in Nolan's Dark Knight trilogy and follows the story of Batman as he battles against the Joker, a chaotic and unpredictable criminal mastermind who seeks to tear Gotham City apart. With the help of police lieutenant Jim Gordon and district attorney Harvey Dent, Batman must navigate a complex web of deceit and danger to stop the Joker and protect the city. The film is known for its intense and complex portrayal of the Joker, its exploration of themes of justice, heroism, and the cost of power, and its use of cutting-edge technology to bring its vision of Gotham City to life."
+        },
+        {
+            "id": 24,
+            "title": "Pulp Fiction",
+            "year": 1994,
+            "director": "Quentin Tarantino",
+            "image": "https://th.bing.com/th/id/R.8845359bd845daefd66734507759a002?rik=PjCuFYt2DsEzMw&riu=http%3a%2f%2felmajestic.files.wordpress.com%2f2011%2f05%2fpulp-fiction.jpg&ehk=lhukZ6mYMoSiWFYzEWnsvyoVRgrxtD5hxDkMmu258YU%3d&risl=&pid=ImgRaw&r=0", 
+            "synopsis": "Pulp Fiction is a 1994 crime film directed by Quentin Tarantino. The film consists of a series of interconnected stories and characters that intersect and overlap in surprising ways, including hitmen Vincent and Jules, boxer Butch Coolidge, gangster Marsellus Wallace, and his wife Mia, and various other criminals and misfits. The film is known for its nonlinear narrative structure, its eclectic and pop-culture-heavy soundtrack, its memorable dialogue, and its larger-than-life characters and scenes. Pulp Fiction is widely regarded as one of the most influential and innovative films of the 1990s and helped to establish Tarantino as one of the leading filmmakers of his generation."
+
+        },
+        {
+            "id": 25,
+            "title": "The Good, the Bad and the Ugly",
+            "year": 1966,
+            "director": "Sergio Leone",
+            "image": "https://th.bing.com/th/id/R.f60858bef1ed71898c65964115e74ce2?rik=bkko%2fpY2t8L6CA&pid=ImgRaw&r=0",
+            "synopsis" : "The Good, the Bad and the Ugly is a 1966 Western film directed by Sergio Leone and starring Clint Eastwood, Lee Van Cleef, and Eli Wallach. The film takes place during the American Civil War and follows the adventures of three gunslingers - the Man with No Name (Eastwood), Angel Eyes (Van Cleef), and Tuco (Wallach) - as they search for a hidden cache of Confederate gold. Along the way, they cross paths, engage in shootouts, and form shifting alliances as they try to outwit each other and find the treasure first. The film is known for its iconic score, its memorable characters and dialogue, its stark and beautiful landscapes, and its masterful use of tension and suspense."
+        },
+        {
+            "id": 26,
+            "title": "Forrest Gump",
+            "year": 1994,
+            "director": "Robert Zemeckis",
+            "image": "https://th.bing.com/th/id/R.f879b6c80cddcf82531748dfe8990283?rik=rcDsM98qD3ZJ8Q&riu=http%3a%2f%2fshatthemovies.com%2fwp-content%2fuploads%2fyE5d3BUhE8hCnkMUJOo1QDoOGNz-scaled-e1580485501297.jpg&ehk=4kiEbW9%2bC95D3v1RfKh2WpimQXV%2brVZPsdP9QYkURBM%3d&risl=&pid=ImgRaw&r=0",
+            "synopsis": "Forrest Gump is a 1994 comedy-drama film directed by Robert Zemeckis and starring Tom Hanks. The film tells the story of Forrest Gump, a slow-witted but kind-hearted and athletically-talented man from Alabama, as he experiences some of the defining events of the 20th century. The film interweaves Forrest's personal story with historical events, including the Vietnam War, the Watergate scandal, and the rise of the counterculture. Along the way, Forrest meets a cast of memorable characters and faces numerous challenges, but remains optimistic and determined as he searches for happiness and love. The film is known for its powerful and emotional storytelling, its inventive use of special effects, and its memorable portrayal of Forrest as a symbol of innocence and hope in a complex and changing world."
+        },
+        {
+            "id": 27,
+            "title": "Inception",
+            "year": 2010,
+            "director": "Christopher Nolan",
+            "image": "https://th.bing.com/th/id/R.8e3476b9592c13fe00d04135894f6c53?rik=exS8Q2pznXN%2bCw&riu=http%3a%2f%2f1.bp.blogspot.com%2f_o31CLSHm6KA%2fS-UResGfUxI%2fAAAAAAAAADs%2fyqUC5Tt0Hz0%2fs1600%2fInception-Movie.jpg&ehk=ioGHmOuBujVyqaBuRC9xFjI4ycPUKDFYS9oAUHD61SY%3d&risl=&pid=ImgRaw&r=0", 
+            "synopsis": "Inception is a 2010 science fiction film directed by Christopher Nolan. The film takes place in a world where technology allows people to enter and explore each other's dreams. The story follows Cobb (Leonardo DiCaprio), a professional thief who specializes in infiltrating people's dreams to steal their secrets, as he is offered the opportunity to do the opposite: to plant an idea in someone's mind. Along with a team of experts, Cobb embarks on a mission to enter the subconscious of a wealthy businessman (Ken Watanabe) and plant the seed of an idea that will change his life. The film is known for its complex and multi-layered narrative structure, its imaginative and visually stunning dreamscapes, and its exploration of themes of memory, guilt, and the power of the subconscious mind."
+        },
+        {
+            "id": 28,
+            "title": "The Matrix",
+            "year": 1999,
+            "director": "The Wachowskis",
+            "image": "https://th.bing.com/th/id/OIP.DM5YVBg0ZdmxGBl4kFzcgQHaD4?pid=ImgDet&rs=1", 
+            "synopsis": "The Matrix is a 1999 science fiction film directed by the Wachowskis. The film takes place in a dystopian future where humanity is enslaved by sentient machines, living in a simulated reality known as the Matrix. The protagonist, Thomas Anderson (Keanu Reeves), is a computer programmer who discovers that his entire life is a lie and that he is actually living in the Matrix. He is recruited by a group of rebels led by Morpheus (Laurence Fishburne) and Trinity (Carrie-Anne Moss) to join the fight against the machines. Together, they must navigate the dangerous and mind-bending world of the Matrix to try and save humanity. The film is known for its groundbreaking special effects, its innovative action scenes, and its exploration of themes such as reality, consciousness, and the nature of existence."
+        },
+        {
+            "id": 29,
+            "title": "Goodfellas",
+            "year": 1990,
+            "director": "Martin Scorsese",
+            "image": "https://image.tmdb.org/t/p/w780/wGagGF57oSC44WsSPSG1TVEwSRn.jpg",
+            "synopsis": "Goodfellas is a 1990 crime drama film directed by Martin Scorsese. The film is based on the real-life experiences of Henry Hill (played by Ray Liotta), a New York City gangster who rises through the ranks of the Lucchese crime family during the 1950s, 60s, and 70s. The film follows Hill as he moves from petty thief to full-fledged member of the Mafia, and shows the highs and lows of his life as a criminal, from his friendship with fellow gangsters like Jimmy Conway (Robert De Niro) and Tommy DeVito (Joe Pesci) to his eventual cooperation with the FBI and entry into witness protection. Goodfellas is known for its graphic violence, its fast-paced and intense storytelling, and its unforgettable characters and performances, particularly Joe Pesci's turn as the volatile Tommy. The film is widely regarded as one of the greatest crime movies of all time."
+        },
+        {
+            "id": 30,
+            "title": "The Silence of the Lambs",
+            "year": 1991,
+            "director": "Jonathan Demme",
+            "image": "https://3.bp.blogspot.com/-siXVuUWC1Is/WTLMtJTNmzI/AAAAAAAACYQ/29a0MH8PZ4o_Unx0LCIYulWxxlt6IaK4QCLcB/s1600/THE%2BSILENCE%2BOF%2BTHE%2BLAMBS%2B-%2BUK%2BPoster%2Bby%2BMarcus%2BSilversides.jpeg", 
+            "synopsis": "The Silence of the Lambs is a 1991 psychological thriller film directed by Jonathan Demme. The film stars Jodie Foster as Clarice Starling, a young FBI trainee who is tasked with tracking down a serial killer known as Buffalo Bill (Ted Levine). In order to get insight into the killer's mind, Starling seeks the help of Dr. Hannibal Lecter (Anthony Hopkins), a brilliant but cannibalistic psychiatrist who is locked up in a maximum security prison. As Starling gets closer to the truth, she becomes embroiled in a dangerous game of cat-and-mouse with both Buffalo Bill and Lecter, who seems to have his own agenda. The Silence of the Lambs is known for its tense atmosphere, its memorable characters, and its exploration of themes such as power, identity, and the dark side of human nature. It won five Academy Awards, including Best Picture, Best Director, and Best Actor for Hopkins' iconic performance as Lecter."
+        }
+    ]
 }
