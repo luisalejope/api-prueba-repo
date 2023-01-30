@@ -1,184 +1,243 @@
 {
-  "movies": [
-    {
-        "id": 1,
-        "title": "The Lord of the Rings: The Return of the King",
-        "year": 2003,
-        "director": "Peter Jackson"
-    },
-    {
-        "id": 2,
-        "title": "Star Wars: Episode V - The Empire Strikes Back",
-        "year": 1980,
-        "director": "Irvin Kershner"
-    },
-    {
-        "id": 3,
-        "title": "The Pianist",
-        "year": 2002,
-        "director": "Roman Polanski"
-    },
-    {
-        "id": 4,
-        "title": "Gladiator",
-        "year": 2000,
-        "director": "Ridley Scott"
-    },
-    {
-        "id": 5,
-        "title": "The Green Mile",
-        "year": 1999,
-        "director": "Frank Darabont"
-    },
-    {
-        "id": 6,
-        "title": "The Intouchables",
-        "year": 2011,
-        "director": "Olivier Nakache and Eric Toledano"
-    },
-    {
-        "id": 7,
-        "title": "The Lion King",
-        "year": 1994,
-        "director": "Roger Allers and Rob Minkoff"
-    },
-    {
-        "id": 8,
-        "title": "City of God",
-        "year": 2002,
-        "director": "Fernando Meirelles and Kátia Lund"
-    },
-    {
-        "id": 9,
-        "title": "Braveheart",
-        "year": 1995,
-        "director": "Mel Gibson"
-    },
-    {
-        "id": 10,
-        "title": "Psycho",
-        "year": 1960,
-        "director": "Alfred Hitchcock"
-    },
-    {
-        "id": 11,
-        "title": "Apocalypse Now",
-        "year": 1979,
-        "director": "Francis Ford Coppola"
-    },
-    {
-        "id": 12,
-        "title": "Aliens",
-        "year": 1986,
-        "director": "James Cameron"
-    },
-    {
-        "id": 13,
-        "title": "Sunset Boulevard",
-        "year": 1950,
-        "director": "Billy Wilder"
-    },
-    {
-        "id": 14,
-        "title": "The Terminator",
-        "year": 1984,
-        "director": "James Cameron"
-    },
-    {
-        "id": 15,
-        "title": "The Elephant Man",
-        "year": 1980,
-        "director": "David Lynch"
-    },
-    {
-        "id": 16,
-        "title": "Taxi Driver",
-        "year": 1976,
-        "director": "Martin Scorsese"
-    },
-    {
-        "id": 17,
-        "title": "Lawrence of Arabia",
-        "year": 1962,
-        "director": "David Lean"
-    },
-    {
-        "id": 18,
-        "title": "Casablanca",
-        "year": 1942,
-        "director": "Michael Curtiz"
-    },
-    {
-        "id": 19,
-        "title": "Vertigo",
-        "year": 1958,
-        "director": "Alfred Hitchcock"
-    },
-    {   
-        "id": 20,
-        "title": "The Bridge on the River Kwai",
-        "year": 1957,
-        "director": "David Lean"
-    },
-    {   
-        "id": 21,
-        "title": "The Shawshank Redemption",
-        "year": 1994,
-        "director": "Frank Darabont"
-    },
-    {
-        "id": 22,
-        "title": "The Godfather",
-        "year": 1972,
-        "director": "Francis Ford Coppola"
-    },
-    {
-        "id": 23,
-        "title": "The Dark Knight",
-        "year": 2008,
-        "director": "Christopher Nolan"
-    },
-    {
-        "id": 24,
-        "title": "Pulp Fiction",
-        "year": 1994,
-        "director": "Quentin Tarantino"
-    },
-    {
-        "id": 25,
-        "title": "The Good, the Bad and the Ugly",
-        "year": 1966,
-        "director": "Sergio Leone"
-    },
-    {
-        "id": 26,
-        "title": "Forrest Gump",
-        "year": 1994,
-        "director": "Robert Zemeckis"
-    },
-    {
-        "id": 26,
-        "title": "Inception",
-        "year": 2010,
-        "director": "Christopher Nolan"
-    },
-    {
-        "id": 27,
-        "title": "The Matrix",
-        "year": 1999,
-        "director": "The Wachowskis"
-    },
-    {
-        "id": 28,
-        "title": "Goodfellas",
-        "year": 1990,
-        "director": "Martin Scorsese"
-    },
-    {
-        "id": 29,
-        "title": "The Silence of the Lambs",
-        "year": 1991,
-        "director": "Jonathan Demme"
-    }
-  ]
+    "movies": [
+        {
+            "id": 1,
+            "title": "The Lord of the Rings: The Return of the King",
+            "year": 2003,
+            "director": "Peter Jackson",
+            "image": "https://th.bing.com/th/id/R.8bec3185904f8f16925f131f5d4510be?rik=%2bO0oSQjpWlHF2g&riu=http%3a%2f%2f1.bp.blogspot.com%2f-LxKjkFkXHmY%2fUNyCYEkMpUI%2fAAAAAAAABIM%2fHbUOocm1p0g%2fs1600%2fthe-return-of-the-king-lord-of-the-rings-wallpaper.jpg&ehk=xiF5lKBqT1ILJhUUzHQD18LJdmZV%2fJPL0Pb3il1j9qk%3d&risl=&pid=ImgRaw&r=0",
+            "genres": "Fantasy"
+        },
+        {
+            "id": 2,
+            "title": "Star Wars: Episode V - The Empire Strikes Back",
+            "year": 1980,
+            "director": "Irvin Kershner",
+            "image": "https://picfiles.alphacoders.com/125/125320.jpg",
+            "genres": "science fiction"
+        },
+        {
+            "id": 3,
+            "title": "The Pianist",
+            "year": 2002,
+            "director": "Roman Polanski",
+            "image": "https://imagenes.gatotv.com/categorias/peliculas/posters/el_pianista.png",
+            "genres": "Autobiography"
+        },
+        {
+            "id": 4,
+            "title": "Gladiator",
+            "year": 2000,
+            "director": "Ridley Scott",
+            "image": "https://3.bp.blogspot.com/_z1NZintfQLg/TODUqc9cnLI/AAAAAAAAAA0/q4DRXjqr-qs/s1600/Gladiator.jpg",
+            "genres": "Action movie"
+        },
+        {
+            "id": 5,
+            "title": "The Green Mile",
+            "year": 1999,
+            "director": "Frank Darabont",
+            "image": "https://th.bing.com/th/id/R.e59d0e67e9da5159780f38aa18d2b59b?rik=6Nq7V8Wvuf1MwQ&riu=http%3a%2f%2flunkiandsika.files.wordpress.com%2f2011%2f08%2fthe-green-mile-tom-hanks-poster-03.png&ehk=XduhWhYepHRPNDywBbj%2bJ8l368Ai3Td%2b%2bkrSYdQiUcY%3d&risl=&pid=ImgRaw&r=0",
+            "genres": "Drama"
+        },
+        {
+            "id": 6,
+            "title": "The Intouchables",
+            "year": 2011,
+            "director": "Olivier Nakache and Eric Toledano",
+            "image": "https://resizing.flixster.com/rObzZI6WUa7ZVqROn64-04Qmu1c=/206x305/v1.bTsxMTE2OTE4MztqOzE3NDA5OzEyMDA7ODAwOzEyMDA",
+            "genres" "French comedy-drama film" 
+        },
+        {
+            "id": 7,
+            "title": "The Lion King",
+            "year": 1994,
+            "director": "Roger Allers and Rob Minkoff",
+            "image": "https://www.themoviedb.org/t/p/original/1dOCAh91v0iClGLDc9TFTDotH6Y.jpg",
+            "genres": "Animated musical"
+        {
+            "id": 8,
+            "title": "City of God",
+            "year": 2002,
+            "director": "Fernando Meirelles and Kátia Lund",
+            "image": "https://1.bp.blogspot.com/_ecBknTGr4ik/TIDEaonMVNI/AAAAAAAAAco/n6A-T8cUPKE/s1600/1e.jpg",
+            "genres": "crime drama"
+        },
+        {
+            "id": 9,
+            "title": "Braveheart",
+            "year": 1995,
+            "director": "Mel Gibson",
+            "image": "https://th.bing.com/th/id/R.efb3663661c6ef4d5882b86b73056b45?rik=TWVSn56YZWT8NA&pid=ImgRaw&r=0",
+            "genres": "Historical drama"
+        },
+        {
+            "id": 10,
+            "title": "Psycho",
+            "year": 1960,
+            "director": "Alfred Hitchcock",
+            "image": "https://s-media-cache-ak0.pinimg.com/736x/39/43/0d/39430d3398d67493bddc0a549b673502.jpg",
+            "genres": "Psychological horror"
+        },
+        {
+            "id": 11,
+            "title": "Apocalypse Now",
+            "year": 1979,
+            "director": "Francis Ford Coppola",
+            "image": "https://doomrocket.com/wp-content/uploads/2016/11/apocalypse_now-1024x768.jpg",
+            "genres": "Historical"
+        },
+        {
+            "id": 12,
+            "title": "Aliens",
+            "year": 1986,
+            "director": "James Cameron",
+            "image": "https://www.thedigitalfix.com/wp-content/uploads/2021/05/alien.jpg",
+            "genres": "Horror."
+        },
+        {
+            "id": 13,
+            "title": "Sunset Boulevard",
+            "year": 1950,
+            "director": "Billy Wilder",
+            "image": "https://artworks.thetvdb.com/banners/movies/2351/posters/2351.jpg",
+            "genres": "Action movie"
+        },
+        {
+            "id": 14,
+            "title": "The Terminator",
+            "year": 1984,
+            "director": "James Cameron",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTUzMDQ3OTgwM15BMl5BanBnXkFtZTYwNDQ5OTk4._V1_FMjpg_UX1000_.jpg",
+            "genres": "Action movie"
+        },
+        {
+            "id": 15,
+            "title": "The Elephant Man",
+            "year": 1980,
+            "director": "David Lynch",
+            "image": "https://th.bing.com/th/id/OIP.5cuY__HntESE26hAxEHKZgHaLH?pid=ImgDet&rs=1",
+            "genres": "Horror."
+        },
+        {
+            "id": 16,
+            "title": "Taxi Driver",
+            "year": 1976,
+            "director": "Martin Scorsese",
+            "image": "https://th.bing.com/th/id/OIP.dGU6c3EzBcv7i6k6aGH5FwHaLH?pid=ImgDet&rs=1",
+            "genres": "psychological drama"
+        },
+        {
+            "id": 17,
+            "title": "Lawrence of Arabia",
+            "year": 1962,
+            "director": "David Lean",
+            "image": "https://th.bing.com/th/id/OIP.HKaKb2m-qO8nyTos6aUAYAHaEK?pid=ImgDet&rs=1",
+            "genres": "Adventure"
+        },
+        {
+            "id": 18,
+            "title": "Casablanca",
+            "year": 1942,
+            "director": "Michael Curtiz",
+            "image": "https://th.bing.com/th/id/OIP.NsgZQZLC7RKNQKlBXi6bIAHaKY?pid=ImgDet&rs=1", 
+            "genres": "romantic drama" 
+        },
+        {
+            "id": 19,
+            "title": "Vertigo",
+            "year": 1958,
+            "director": "Alfred Hitchcock",
+            "image" : "https://3.bp.blogspot.com/-dnfmgsH66WM/U6DHIKfsZyI/AAAAAAAAJxg/Ip427go1bhM/s1600/vertigo+cartel.jpg", 
+            "genres": "Psychological thriller" 
+        },
+        {
+            "id": 20,
+            "title": "The Bridge on the River Kwai",
+            "year": 1957,
+            "director": "David Lean",
+            "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/the-bridge-on-the-river-kwai-theatrical-poster-1957-david-lee-guss.jpg", 
+            "genres": "Historical"
+        },
+        {
+            "id": 21,
+            "title": "The Shawshank Redemption",
+            "year": 1994,
+            "director": "Frank Darabont",
+            "image": "https://th.bing.com/th/id/OIP.Q7q1PossGJF0C2izr4O82wHaKl?pid=ImgDet&rs=1", 
+            "genres": "psychological drama"
+        },
+        {
+            "id": 22,
+            "title": "The Godfather",
+            "year": 1972,
+            "director": "Francis Ford Coppola",
+            "image": "https://th.bing.com/th/id/R.ce8a1119591f6e2880db6469ec3e1628?rik=amEBPoEWATFyYw&riu=http%3a%2f%2f4.bp.blogspot.com%2f_WkKZJVG5wTk%2fTRyHL4XKsAI%2fAAAAAAAC5oY%2fv56ddqAwOGc%2fs1600%2fGodfather001.jpg&ehk=f4qPlFy90BlyDJPuz%2faKwHk8lBmEKW2sCh3XB0Ay3Eg%3d&risl=&pid=ImgRaw&r=0",
+            "genres": "crime drama"
+        },
+        {
+            "id": 23,
+            "title": "The Dark Knight",
+            "year": 2008,
+            "director": "Christopher Nolan",
+            "image": "https://th.bing.com/th/id/R.40cda23f43bd1f79735859df67019e52?rik=eJG1w0%2bOJQBHEw&pid=ImgRaw&r=0", 
+            "genres": "Action movie"
+        },
+        {
+            "id": 24,
+            "title": "Pulp Fiction",
+            "year": 1994,
+            "director": "Quentin Tarantino",
+            "image": "https://th.bing.com/th/id/R.8845359bd845daefd66734507759a002?rik=PjCuFYt2DsEzMw&riu=http%3a%2f%2felmajestic.files.wordpress.com%2f2011%2f05%2fpulp-fiction.jpg&ehk=lhukZ6mYMoSiWFYzEWnsvyoVRgrxtD5hxDkMmu258YU%3d&risl=&pid=ImgRaw&r=0", 
+           "genres": "Action movie"
+        },
+        {
+            "id": 25,
+            "title": "The Good, the Bad and the Ugly",
+            "year": 1966,
+            "director": "Sergio Leone",
+            "image": "https://th.bing.com/th/id/R.f60858bef1ed71898c65964115e74ce2?rik=bkko%2fpY2t8L6CA&pid=ImgRaw&r=0",
+            "genres": "Action movie"
+        },
+        {
+            "id": 26,
+            "title": "Forrest Gump",
+            "year": 1994,
+            "director": "Robert Zemeckis",
+            "image": "https://th.bing.com/th/id/R.f879b6c80cddcf82531748dfe8990283?rik=rcDsM98qD3ZJ8Q&riu=http%3a%2f%2fshatthemovies.com%2fwp-content%2fuploads%2fyE5d3BUhE8hCnkMUJOo1QDoOGNz-scaled-e1580485501297.jpg&ehk=4kiEbW9%2bC95D3v1RfKh2WpimQXV%2brVZPsdP9QYkURBM%3d&risl=&pid=ImgRaw&r=0",
+            "genres": "drama"        
+        },
+        {
+            "id": 27,
+            "title": "Inception",
+            "year": 2010,
+            "director": "Christopher Nolan",
+            "image": "https://th.bing.com/th/id/R.8e3476b9592c13fe00d04135894f6c53?rik=exS8Q2pznXN%2bCw&riu=http%3a%2f%2f1.bp.blogspot.com%2f_o31CLSHm6KA%2fS-UResGfUxI%2fAAAAAAAAADs%2fyqUC5Tt0Hz0%2fs1600%2fInception-Movie.jpg&ehk=ioGHmOuBujVyqaBuRC9xFjI4ycPUKDFYS9oAUHD61SY%3d&risl=&pid=ImgRaw&r=0", 
+            "genres" "science fiction"
+        },
+        {
+            "id": 28,
+            "title": "The Matrix",
+            "year": 1999,
+            "director": "The Wachowskis",
+            "image": "https://th.bing.com/th/id/OIP.DM5YVBg0ZdmxGBl4kFzcgQHaD4?pid=ImgDet&rs=1", 
+            "genres": "Action movie"
+        },
+        {
+            "id": 29,
+            "title": "Goodfellas",
+            "year": 1990,
+            "director": "Martin Scorsese",
+            "image": "https://image.tmdb.org/t/p/w780/wGagGF57oSC44WsSPSG1TVEwSRn.jpg",
+            "genres": "crime drama"
+        },
+        {
+            "id": 30,
+            "title": "The Silence of the Lambs",
+            "year": 1991,
+            "director": "Jonathan Demme",
+            "image": "https://3.bp.blogspot.com/-siXVuUWC1Is/WTLMtJTNmzI/AAAAAAAACYQ/29a0MH8PZ4o_Unx0LCIYulWxxlt6IaK4QCLcB/s1600/THE%2BSILENCE%2BOF%2BTHE%2BLAMBS%2B-%2BUK%2BPoster%2Bby%2BMarcus%2BSilversides.jpeg", 
+            "genres": "psychological thriller"
+        }
+    ]
 }
